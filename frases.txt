@@ -3,3 +3,4 @@ aula 02 git
 aula 03 git
 aula 04 git
 aula 05 git
+aula 06 git
